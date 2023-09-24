@@ -2,3 +2,4 @@ h1 {color: blue; font-weight:bold; text-align:center;}
 h2 {color: green; font-weight:bold;}
 p {color: purple;}
 li{list-style-type:none;}
+nav{text-align:end;}

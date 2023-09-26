@@ -1,6 +1,6 @@
 body{background-color:yellow}
-h1 {color: blue; font-weight:bold; text-align:center; font-size: 500%; background-color:red}
-h2 {color: #e600ff; font-weight:bold; font-size: 300%;}
+h1 {color: blue; font-weight:bold; text-align:center; font-size: 500%; background-color:red;}
+h2 {color: #e600ff; font-weight:bold; font-size: 300%; background-color:#65fe08;}
 p {color: purple; font-size: 100%;}
 li{list-style-type:none;}
-nav{text-align:end;}
+nav{text-align:end; background-color:#00fff7}

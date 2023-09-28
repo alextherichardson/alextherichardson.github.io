@@ -1,4 +1,4 @@
-body{background-color:black}
+body{background-color:black; font-family:"Lucida Console";}
 h1 {color: blue; font-weight:bold; text-align:center; font-size: 500%; background-color:red;}
 h2 {color: #e600ff; font-weight:bold; font-size: 300%; background-color:#65fe08;}
 p {color: purple; font-size: 100%;}

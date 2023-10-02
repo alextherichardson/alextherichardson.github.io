@@ -3,5 +3,5 @@ h1 {color: blue; font-weight:bold; text-align:center; font-size: 500%; backgroun
 h2 {color: #e600ff; font-weight:bold; font-size: 300%; background-color:#65fe08;}
 p {color: purple; font-size: 100%;}
 ul{border: 1px solid;}
-li{list-style-type:none;}
+li{list-style-type:none; border-bottom: 1px solid;}
 nav{text-align:end; font-weight:bold; background-color:#00fff7}

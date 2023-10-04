@@ -1,7 +1,12 @@
-body{background-color:#d0d6d6; font-family:"Times New Roman";}
-h1 {color: rgb(0, 0, 0); font-weight:bold; text-align:center; font-size: 500%;background-color:#ff0000;}
+body{background-image:linear-gradient(to bottom right, #d6d6d4, #595958); font-family:"Times New Roman";}
+/*h1 {color: darkcyan; font-weight:bold; text-align:center; font-size: 100%; background-image:linear-gradient(#bf3900, #bf0000); border-style:ridge; border-radius:25px; border-color:darkmagenta}*/
+h1{color:#ffffff; font-weight:bolder; font-family:"Lucida Console"; text-align:center;}
 h2 {color: #e600ff; font-weight:bold; font-size: 300%; width:250px; border-style:ridge; border-radius:25px; text-align: center; position:relative; left:5%; border-color:aqua; background-color:#00067f;}
-p {color: purple; font-size: 100%;}
+p {color: purple; font-size: 150%; line-height:0.6;text-align:justify}
 ul{}
-li{list-style-type:none;}
-nav{text-align:center; padding: 0%; font-weight:bold; position:fixed; top:0; right:5%; border-style:ridge; border-radius:25px; background-color:#00fff7;}
+a.link{color: #b0f9f5;}
+a:visited{color:#000000}
+a:hover{color:#ffffff}
+li.horizontal{display:inline-block; margin:0 140px}
+/*li{display:inline-block; margin:0 140px}*/
+nav{text-align:center; font-weight:bold; font-size:100%; position:fixed; z-index:1; width:100%; height:15%; top:0; border-style:ridge; background-image:linear-gradient(#58084f, #525f02);}
